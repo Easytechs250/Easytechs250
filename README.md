@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Easytechs250
+- 👋 Hi, I’m blacksync
 - 👀 I’m interested in python,C++,AI,Machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
